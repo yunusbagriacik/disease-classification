@@ -1,3 +1,2 @@
 # disease-classification
-Project setup completed succesfully.
-Branch workflow test.
+Project setup completed succesfully..
